@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/vertical_separator.png</file>
+        <file>icons/High Volume-64.png</file>
+        <file>icons/Low Volume-64.png</file>
+        <file>icons/Medium Volume-64.png</file>
+        <file>icons/Mute-64.png</file>
+        <file>icons/Pause-64.png</file>
+        <file>icons/Play-64.png</file>
+        <file>icons/Stop-64.png</file>
+        <file>icons/Normal Screen Filled-50.png</file>
+        <file>icons/Fit to Width-50.png</file>
+        <file>icons/download.png</file>
+        <file>icons/upload.png</file>
+        <file>icons/p2psp.png</file>
+        <file>icons/Open in Browser-26.png</file>
+        <file>icons/VLC-64.png</file>
+        <file>icons/Video File-26.png</file>
+    </qresource>
+</RCC>
